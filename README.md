@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi! Hello! Welcome to my profile. 👋
+# Hi, welcome to my profile! I'm happy you're here. 😊
 
-<img src="gojo2.gif" width="100%" height="400px" style="object-fit: cover; border-radius: 10px;" alt="Gojo Satoru" />
+<img src="gojo_happy.gif" width="50%" style="border-radius: 10px;" alt="Happy Gojo" />
 
 ---
 
@@ -16,8 +16,8 @@
 
 ---
 
-# I'm happy you visited my profile! 😊
+# Bye bye, see ya! 👋
 
-<img src="gojo_happy.gif" width="50%" style="border-radius: 10px;" alt="Happy Gojo" />
+<img src="gojo2.gif" width="100%" height="400px" style="object-fit: cover; border-radius: 10px;" alt="Gojo Satoru" />
 
 </div>
