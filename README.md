@@ -1,12 +1,8 @@
 <div align="center">
 
-# ⚡ EXODUS ⚡
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=EXODUS&fontSize=70&fontColor=00FF41&fontAlignY=50" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SYSTEM+OVERRIDE+INITIATED...;IDENTITY:+EXODUS;GSSOC+'26+MISSION+ACTIVE" alt="Typing SVG" />
-</p>
-
-<img src="https://media.giphy.com/media/A8N3Yf8aE_oU8/giphy.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R5NjR6eGZ5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Jm09MSZ3PTUwMA/3o7TKSjPQCp9C9P6zK/giphy.gif" width="100%" height="300px" style="object-fit: cover; border-radius: 5px; opacity: 0.8;" />
 
 ---
 
