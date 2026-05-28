@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="gojo.gif" width="100%" height="400px" style="object-fit: cover; border-radius: 10px;" alt="Gojo Satoru" />
+<img src="gojo2.gif" width="100%" height="400px" style="object-fit: cover; border-radius: 10px;" alt="Gojo Satoru" />
 
 ---
 
