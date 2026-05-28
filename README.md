@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R5NjR6eGZ5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Jm09MSZ3PTUwMA/3o7TKSjPQCp9C9P6zK/giphy.gif" width="100%" height="300px" style="object-fit: cover; border-radius: 5px;" alt="Digital Rain Animation" />
+<img src="gojo.gif" width="100%" height="400px" style="object-fit: cover; border-radius: 10px;" alt="Gojo Satoru" />
 
 ---
 
