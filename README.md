@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=EXODUS&fontSize=80&fontColor=00FF41&fontAlignY=50" width="100%"/>
+# ⚡ EXODUS ⚡
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRmdXpxZjR6eGZ5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Jm09MSZ3PTUwMA/A8N3Yf8aE_oU8/giphy.gif" width="100%" height="150px" style="object-fit: cover;" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SYSTEM+OVERRIDE+INITIATED...;IDENTITY:+EXODUS;GSSOC+'26+MISSION+ACTIVE" alt="Typing SVG" />
+</p>
+
+<img src="https://media.giphy.com/media/A8N3Yf8aE_oU8/giphy.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
 
 ---
 
@@ -11,7 +15,7 @@
 
 ---
 
-### 📡 NODE STATS
+### 📡 NODE TELEMETRY
 [![Exodus2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exodus2004&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&border_color=00FF41&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exodus2004&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&border_color=00FF41&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
