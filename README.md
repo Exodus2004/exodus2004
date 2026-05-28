@@ -48,18 +48,6 @@
 
 ---
 
-### 📟 CONNECTION_CHANNELS
-<p align="left">
-  <a href="mailto:kiranreddym708@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/ritesh1908/">
-    <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-</p>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Exodus2004/Exodus2004/main/path-to-cool-hacker-gif.gif" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R5NjR6eGZ5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Jm09MSZ3PTUwMA/3o7TKSjPQCp9C9P6zK/giphy.gif'" width="100%" />
 </div>
