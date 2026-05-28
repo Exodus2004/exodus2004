@@ -1,16 +1,17 @@
 <div align="center">
 
-# ⚡ SYSTEM OVERRIDE INITIATED ⚡
-### 🟢 STATUS: ACTIVE | 👤 IDENTITY: EXODUS2004
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=EXODUS&fontSize=80&fontColor=00FF41&fontAlignY=50" width="100%"/>
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRmdXpxZjR6eGZ5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Jm09MSZ3PTUwMA/A8N3Yf8aE_oU8/giphy.gif" width="100%" height="150px" style="object-fit: cover;" />
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=EXODUS%202004&fontSize=90&animation=fadeIn&fontAlignY=35&theme=shades-of-purple" width="100%"/>
+### 🟢 CONTRIBUTION TELEMETRY
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Exodus2004&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 ---
 
-### 📡 NODE TELEMETRY
-
+### 📡 NODE STATS
 [![Exodus2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exodus2004&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&border_color=00FF41&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exodus2004&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&border_color=00FF41&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
@@ -39,17 +40,7 @@
 
 ---
 
-### 📈 ACTIVITY OSCILLOSCOPE
+### 📈 ACTIVITY STREAK
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Exodus2004&theme=radical&background=0D1117&stroke=00FF41&fire=00FF41&ring=00FF41&currStreakLabel=00FF41)
-
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Exodus2004&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Exodus2004/Exodus2004/main/path-to-cool-hacker-gif.gif" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R5NjR6eGZ5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Jm09MSZ3PTUwMA/3o7TKSjPQCp9C9P6zK/giphy.gif'" width="100%" />
-</div>
 
 </div>
