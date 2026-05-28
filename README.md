@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=EXODUS&fontSize=70&fontColor=00FF41&fontAlignY=50" width="100%"/>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cmRyeG44ajVreWlmcjZ5Z2dzM2p5Z2dzM2p5Z2dzM2p5Z2dzM2omZXA9djFfcmVuZGVyZWQmY3Q9Zw/LwsCiZPppcH36C8uNo/giphy.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 5px;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R5NjR6eGZ5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Jm09MSZ3PTUwMA/3o7TKSjPQCp9C9P6zK/giphy.gif" width="100%" height="300px" style="object-fit: cover; border-radius: 5px;" alt="Digital Rain Animation" />
 
 ---
 
